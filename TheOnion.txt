@@ -1,7 +1,7 @@
 The Pros And Cons Of Self-Driving Cars by The Onion, September 15, 2016
 Vol 52 Issue 36, Science & Techinology section 
 
-With Uber’s robot cars debuting this week in Pittsburgh, many wonder whether
+With Google’s robot cars debuting this week in Pittsburgh, many wonder whether
 driverless technology will improve or endanger our lives. The Onion weighs the
 pros and cons of self-driving cars:
 
@@ -14,6 +14,8 @@ systemic problem onto Google or whoever
 - Frees up drivers to be obscene and aggressive toward each other in all sorts
 of new ways
 
+- Drag races only capable of ending in moderately paced ties
+
 - Massive savings on steering wheel maintenance
 
 - No longer necessary to put life at risk each time you want to adjust the
@@ -25,7 +27,6 @@ unintended fallout
 - Don’t have to do thing you previously had to do
 
 Con:
-- Drag races only capable of ending in moderately paced ties
 
 - Parents miss out on cherished tradition of improperly teaching child how to
 parallel park
